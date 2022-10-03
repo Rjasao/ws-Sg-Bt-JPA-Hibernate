@@ -50,7 +50,7 @@ public class UserService {
 			User entity = repository.getReferenceById(id);
 			updateData(entity, obj);
 			return repository.save(entity);
-		}catch(NullPointerException e) { 
+		}catch(java.lang.NullPointerException e) { 
 			throw new ResourceNotFoundException(id);
 		}		
 	}
