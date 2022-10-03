@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Temp\\ws-Sg-Bt-JPA-Hibernate\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=C\:\\temp\\ws-Sg-Bt-JPA-Hibernate\\.git;C\:\\temp\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\temp\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
